@@ -17,3 +17,15 @@
 - Ingresas los nombres de los participantes
 - Presionas el boton para escoger al sorteado
 - Puedes reiniciar el juego
+
+## 🛠️ Pasos para jugar al "Amigo secreto"
+
+1. Primero ingresas los nombres de los participantes.
+
+2. Cada vez que ingresas un nombre debes dar clic en "Añadir Amigo".
+
+3. Veras los nombres agregados en la parte inferior.
+
+4. Clic en el botón "Sortear amigo" y verás el resultado resaltado en verde.
+
+5. Si quieres reiniciar el juego clic en el botón "Reiniciar el Juego".
